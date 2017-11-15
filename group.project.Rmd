@@ -1,0 +1,23 @@
+---
+title: "group.project"
+author: "Yuanrui Zhang"
+date: "11/15/2017"
+output:
+  html_document: default
+  
+---
+```{r setup, include=FALSE}
+setwd('~/desktop/INFO198/BS repo/')
+source('INFO198project.R')
+```
+
+#Group Project
+
+
+This is our group project HTML page( I did it because it looks fancy....)
+
+The plot is below. You can move your cursor on it to interact with it.
+
+Have fun ;)
+
+`r p`
